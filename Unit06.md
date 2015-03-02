@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS102: Introduction to Electromagnetism"
+course_description: "An examination of waves and oscillations in extended objects, sources and laws that govern static electricity and magnetism, Maxwell’s equations, optics, and Einstein’s theory of special relativity."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Optics** <span id="6"></span> 
 *An optical phenomenon involves the interaction between electromagnetic
 waves and matter.  We will focus on visible, infrared, and ultraviolet

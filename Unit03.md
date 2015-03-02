@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS102: Introduction to Electromagnetism"
+course_description: "An examination of waves and oscillations in extended objects, sources and laws that govern static electricity and magnetism, Maxwell’s equations, optics, and Einstein’s theory of special relativity."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Magnetism** <span id="3"></span> 
 *In Unit 2, we studied electric charges, potentials, and fields.  We
 will now take a look at an important effect of moving charges:

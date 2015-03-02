@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS102: Introduction to Electromagnetism"
+course_description: "An examination of waves and oscillations in extended objects, sources and laws that govern static electricity and magnetism, Maxwell’s equations, optics, and Einstein’s theory of special relativity."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Electrostatics** <span id="2"></span> 
 *We are now beginning our study of electricity and magnetism.  We will
 discover that electricity and magnetism are two different aspects of the

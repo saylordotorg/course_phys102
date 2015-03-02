@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS102: Introduction to Electromagnetism"
+course_description: "An examination of waves and oscillations in extended objects, sources and laws that govern static electricity and magnetism, Maxwell’s equations, optics, and Einstein’s theory of special relativity."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Mechanical Vibrations and Waves in Extended Objects** <span
 id="1"></span> 
 *In PHYS101, we learned how to describe the motion of particle-like

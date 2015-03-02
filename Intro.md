@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS102: Introduction to Electromagnetism"
+course_description: "An examination of waves and oscillations in extended objects, sources and laws that govern static electricity and magnetism, Maxwell’s equations, optics, and Einstein’s theory of special relativity."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PHYS102: Introduction to Electromagnetism"
 ---------------------------------------------------------------
 
